@@ -18,15 +18,15 @@ title = "Builders Of The Future, Inc."
         [markup.goldmark.renderer]
             hardWraps = true
 
-publishDir = "docs"
+
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Builders Of The Future, Inc."
+    copyright = "© Michał Burdukiewicz, Genomics Platform, Warsaw University of Technology"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "You don't even know what we can do for you!"
+    description = "Genomics Platform@WUT 2021 conference"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -36,12 +36,12 @@ publishDir = "docs"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/share-image.png"]
+    images = ["images/logo.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Builders Of The Future, Inc."
+    title = "Genomics Platform@WUT 2021 conference"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
@@ -53,4 +53,4 @@ publishDir = "docs"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "genomics, bioinformatics, Warsaw University of Technology"
