@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Builders Of The Future, Inc."
+title = "Genomics Platform@WUT 2021 conference"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.

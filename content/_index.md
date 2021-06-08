@@ -12,7 +12,7 @@ teaser_image: images/logo.jpg
 
 # Genomics Platform@WUT Symposium 2021
 
-To celebrate the first anniversary of its activity, Genomics Platform@WUT organizes its first symposium on 23-06-2021 as a virtual conference. We cordially invite all researchers from Warsaw University of Technology interested in genomics and bioinformatics to participate in this event.
+To celebrate the first anniversary of its foundation, Genomics Platform@WUT organizes its first symposium on 23-06-2021 as a virtual conference. We cordially invite all researchers from Warsaw University of Technology interested in genomics and bioinformatics to participate in this event.
 
 ---
 
