@@ -18,8 +18,9 @@ To celebrate the first anniversary of its foundation, Genomics Platform@WUT orga
 
 # Register
 
-To register, please use the form below. The Symposium happens on the Google Meet platform, so to participate you need only a valid Google account and a modern web browser.
+To register, please use [this form](https://forms.gle/xYiPUE6hCenhgb3x8). The Symposium happens on the Google Meet platform, so to participate you need only a valid Google account and a modern web browser.
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Register">}}
+
 
 # About 
 
@@ -32,7 +33,7 @@ The Genomics Platform@WUT was established on 11-05-2020 to integrate and promote
 5. Tomasz Gambin (biodatageeks).
 6. Krzysztof Kaczmarski (GPU Programming Team).
 
-Secretary of the Scientific Advisory Board: Michał Burdukiewicz (Medical University of Białystok).
+Secretary of the Scientific Advisory Board: Michał Burdukiewicz.
 
 The Platform is open to both experimental and computational scientists interested in genomics. It aims to integrate the genomics-oriented community of Warsaw University of Technology and promote its achievements. 
 
@@ -41,11 +42,12 @@ The Platform is open to both experimental and computational scientists intereste
 # Schedule
 
 
+
 ##  Opening session (09:00 - 10:00) 
 |Title                                                                                    |Presenter                                              |Hour          |
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------|:-------------|
 |Introduction                                                                             |Dariusz Plewczyński (Warsaw University of Technology)  |09:00 - 09:10 |
-|Introduction                                                                             |Invited Rector's representative                        |09:10 - 09:20 |
+|Introduction                                                                             |Mariusz Malinowski                                     |09:10 - 09:20 |
 |New High Performance Computing Center at Faculty of Mathematics and Information Science. |Krzysztof Kaczmarski (Warsaw University of Technology) |09:20 - 09:50 |
 |Break                                                                                    |                                                       |09:50 - 10:00 |
 ##  Session 1 (10:00 - 11:00) 
@@ -80,11 +82,9 @@ The Platform is open to both experimental and computational scientists intereste
 |Algorithm for DNA sequence assembly by quantum annealing                                                |Katarzyna Nałęcz-Charkiewicz (Warsaw University of Technology)                   |14:45 - 15:00 |
 |Analysis of Oxford Nanopore output signal data for basecalling                                          |Adam Napieralski (Warsaw University of Technology)                               |15:00 - 15:15 |
 |Nucleotide methylation classification using machine learning methods on the Oxford Nanopore based data  |Łukasz Neumann (Warsaw University of Technology)                                 |15:15 - 15:30 |
-##  Session 4 (15:35 - 17:15) 
+##  Session 4 (15:35 - 16:25) 
 |Title                                                                                           |Presenter                                             |Hour          |
 |:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-------------|
 |Negative data set sampling as the source of bias in prediction of antimicrobial peptides        |Michał Burdukiewicz (Medical University of Białystok) |15:35 - 15:50 |
 |Towards cloud-native, big data ready and efficient population-scale analyses of sequencing data |Tomasz Gambin (Warsaw University of Technology)       |15:50 - 16:20 |
-|Break                                                                                           |                                                      |16:20 - 16:25 |
-|                                                                                                |Open submissions                                      |16:25 - 17:05 |
-|Closing remarks                                                                                 |Michał Burdukiewicz                                   |17:05 - 17:15 |
+|Closing remarks                                                                                 |Michał Burdukiewicz                                   |16:20 - 16:25 |
