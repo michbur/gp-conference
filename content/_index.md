@@ -46,7 +46,7 @@ The Platform is open to both experimental and computational scientists intereste
 |Title                                                                                    |Presenter                                              |Hour          |
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------|:-------------|
 |Introduction                                                                             |Dariusz Plewczyński (Warsaw University of Technology)  |09:00 - 09:10 |
-|Introduction                                                                             |Mariusz Malinowski                                     |09:10 - 09:20 |
+|Introduction                                                                             |Mariusz Malinowski, Vice-Rector for Research  (Warsaw University of Technology)                                   |09:10 - 09:20 |
 |New High Performance Computing Center at Faculty of Mathematics and Information Science. |Krzysztof Kaczmarski (Warsaw University of Technology) |09:20 - 09:50 |
 |Break                                                                                    |                                                       |09:50 - 10:00 |
 ##  Session 1 (10:00 - 11:00) 
