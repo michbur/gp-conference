@@ -19,7 +19,6 @@ To celebrate the first anniversary of its foundation, Genomics Platform@WUT orga
 # Register
 
 To register, please use [this form](https://forms.gle/xYiPUE6hCenhgb3x8). The Symposium happens on the Google Meet platform, so to participate you need only a valid Google account and a modern web browser.
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Register">}}
 
 
 # About 
