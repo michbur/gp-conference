@@ -23,7 +23,7 @@ To register, please use [this form](https://forms.gle/xYiPUE6hCenhgb3x8). The Sy
 
 # About 
 
-The Genomics Platform@WUT was established on 11-05-2020 to integrate and promote the genomics-oriented community at Warsaw University of Science and Technology. Coordinated by a Scientific Advisory Board headed by Dariusz Plewczyński (Laboratory of Bioinformatics and Computational Genomics), Genomics Platform@WUT consists of six research groups with diverse research areas:
+The Genomics Platform@WUT was established on 11-05-2020 to integrate and promote the genomics-oriented community at Warsaw University of Technology. Coordinated by a Scientific Advisory Board headed by Dariusz Plewczyński (Laboratory of Bioinformatics and Computational Genomics), Genomics Platform@WUT consists of six research groups with diverse research areas:
 
 1. Dariusz Plewczyński (Laboratory of Bioinformatics and Computational Genomics).
 2. Robert Nowak (Artificial Intelligence Division).
