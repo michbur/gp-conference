@@ -81,9 +81,9 @@ The Platform is open to both experimental and computational scientists intereste
 |Algorithm for DNA sequence assembly by quantum annealing                                                |Katarzyna Nałęcz-Charkiewicz (Warsaw University of Technology)                   |14:45 - 15:00 |
 |Analysis of Oxford Nanopore output signal data for basecalling                                          |Adam Napieralski (Warsaw University of Technology)                               |15:00 - 15:15 |
 |Nucleotide methylation classification using machine learning methods on the Oxford Nanopore based data  |Łukasz Neumann (Warsaw University of Technology)                                 |15:15 - 15:30 |
-##  Session 4 (15:35 - 16:25) 
-|Title                                                                                           |Presenter                                             |Hour          |
-|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-------------|
-|Negative data set sampling as the source of bias in prediction of antimicrobial peptides        |Michał Burdukiewicz (Medical University of Białystok) |15:35 - 15:50 |
-|Towards cloud-native, big data ready and efficient population-scale analyses of sequencing data |Tomasz Gambin (Warsaw University of Technology)       |15:50 - 16:20 |
-|Closing remarks                                                                                 |Michał Burdukiewicz                                   |16:20 - 16:25 |
+##  Session 4 (15:35 - 16:15) 
+|Title                                                                                           |Presenter                                                        |Hour          |
+|:-----------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:-------------|
+|Negative data set sampling as the source of bias in prediction of antimicrobial peptides        |Michał Burdukiewicz (Medical University of Białystok)            |15:35 - 15:50 |
+|Towards cloud-native, big data ready and efficient population-scale analyses of sequencing data |Tomasz Gambin, Marek Wiewiórka (Warsaw University of Technology) |15:50 - 16:10 |
+|Closing remarks                                                                                 |Michał Burdukiewicz                                              |16:10 - 16:15 |
