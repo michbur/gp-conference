@@ -467,6 +467,13 @@ img {
   border-bottom-color: #e2e8f0;
 }
 
+.prose thead th {
+  vertical-align: bottom;
+  padding-right: 0.5714286em;
+  padding-bottom: 0.5714286em;
+  padding-left: 0.5714286em;
+}
+
 .prose tbody tr {
   border-bottom-width: 1px;
   border-bottom-color: #edf2f7;
@@ -528,6 +535,14 @@ img {
 
 .prose h2 + * {
   margin-top: 0;
+}
+
+.prose thead th:first-child {
+  padding-left: 0;
+}
+
+.prose thead th:last-child {
+  padding-right: 0;
 }
 
 .prose tbody td:first-child {
