@@ -41,12 +41,11 @@ The Platform is open to both experimental and computational scientists intereste
 # Schedule
 
 
-
 ##  Opening session (09:00 - 10:00) 
 |Title                                                                                    |Presenter                                              |Hour          |
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------|:-------------|
 |Introduction                                                                             |Dariusz Plewczyński (Warsaw University of Technology)  |09:00 - 09:10 |
-|Introduction                                                                             |Mariusz Malinowski, Vice-Rector for Research  (Warsaw University of Technology)                                   |09:10 - 09:20 |
+|Introduction                                                                             |Mariusz Malinowski                                     |09:10 - 09:20 |
 |New High Performance Computing Center at Faculty of Mathematics and Information Science. |Krzysztof Kaczmarski (Warsaw University of Technology) |09:20 - 09:50 |
 |Break                                                                                    |                                                       |09:50 - 10:00 |
 ##  Session 1 (10:00 - 11:00) 
@@ -69,7 +68,7 @@ The Platform is open to both experimental and computational scientists intereste
 |Structural Variants Detection by Consensus Algorithm                                                                                                |Mateusz Chiliński (Warsaw University of Technology)                                                                                    |12:30 - 12:40 |
 |Network analysis of 3D genomic data from population-averaged and single cell experiments                                                            |Michał Denkiewicz (Faculty of Mathematics and Information Science, Warsaw University of Technology)                                    |12:40 - 12:50 |
 |Identification of potential mechanisms of gene expression regulated by DNA methylations within transcription factor binding sites for breast cancer |Michal Wlasnowolski (Warsaw University of Technology)                                                                                  |12:50 - 13:00 |
-|Image-driven chromatin modellinig                                                                                                                   |Michał Kadlof (Warsaw University of Technology)                                                                                        |13:00 - 13:10 |
+|3D chromatin methods                                                                                                                                |Michał Kadlof (Warsaw University of Technology)                                                                                        |13:00 - 13:10 |
 |Chromatin phase separation simulations by percolation and loop extrusion model at single loop resolution                                            |Kaustav Sengupta (University of Warsaw)                                                                                                |13:10 - 13:20 |
 ##  Session 3 (13:45 - 15:30) 
 |Title                                                                                                   |Presenter                                                                        |Hour          |
