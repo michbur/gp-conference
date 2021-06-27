@@ -14,6 +14,8 @@ teaser_image: images/logo.jpg
 
 To celebrate the first anniversary of its foundation, Genomics Platform@WUT organizes its first symposium on 23-06-2021 as a virtual conference. We cordially invite all researchers from Warsaw University of Technology interested in genomics and bioinformatics to participate in this event.
 
+The abstract book is available [here](https://github.com/michbur/gp-conference/raw/main/abstract-book.pdf).
+
 ---
 
 # Register
